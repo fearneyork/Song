@@ -1,2 +1,2 @@
 # Song
-MMMBop by Hanson
+MMMBop by Hanson in the key of C-major.
